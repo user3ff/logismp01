@@ -2,3 +2,10 @@ h1{
     text-align:center;
     color:plum;
 }
+
+div{
+    width:80%;
+    margin:auto;
+    border:1px solid gray;
+    padding:20px;
+}
