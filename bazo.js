@@ -1,1 +1,1 @@
-alert('Main World');
+alert('Bazo - Main World love');
