@@ -1,1 +1,1 @@
-alert('Bazo World');
+alert('Bazo World 2');
